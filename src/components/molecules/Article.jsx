@@ -25,7 +25,7 @@ function Article() {
             </article>
 
             <article className="articles">
-                <center><Title text="ACERCA  MI" /></center>
+                <center><Title text="ACERCA DE MI" /></center>
                 <div className="articles-content text-body">
                     <Text msn="Soy una persona que constantemente busca desafíos que superar, actualmente estoy cursando la ingeniería en desarrollo de software, lucho por mi titulación profesional, una vez concluyendo mis estudios universitarios estoy dispuesto a recabar experiencia laboral mientras persigo mis metas de alcanzar una maestría y doctorado en el ámbito informático." />
                 </div>
