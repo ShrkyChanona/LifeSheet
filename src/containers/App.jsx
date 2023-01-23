@@ -5,7 +5,7 @@ function App() {
     return ( 
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={<LifeSheet/>} />
+                <Route path="/LifeSheet/" element={<LifeSheet/>} />
             </Routes>
         </BrowserRouter>
      );
